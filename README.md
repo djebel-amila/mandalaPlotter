@@ -7,9 +7,8 @@ Hardware and parts used in the project:
 *Arduino Uno R3
 *CNC shield v3 by protoneer: https://blog.protoneer.co.nz/arduino-cnc-shield/
 *4 pololu a4988 drivers
-* 2 Nema 17 steppers
-* 1 12V solenoid
-
+*2 Nema 17 steppers
+*1 12V solenoid
 *Arduino analog joystick
 *Resistors: 1k Ω
 *various mechanical parts from ebay
